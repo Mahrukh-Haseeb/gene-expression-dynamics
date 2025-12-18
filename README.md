@@ -1,4 +1,5 @@
-**Gene Expression Dynamics:**
+**Gene Expression Dynamics:**  
+
 This repository contains Python scripts for simulating stochastic gene expression and nonlinear population growth. These are key concepts in systems biology.
 
 **Scripts**
@@ -11,10 +12,13 @@ This repository contains Python scripts for simulating stochastic gene expressio
 
 **Installation**
 - Clone the repository:
+  
   git clone https://github.com/Mahrukh-Haseeb/gene-expression-dynamics.git
 - Install dependencies:
+  
   pip install matplotlib
 
-**Run each script in your terminal:**
-  python stochastic_gene_expression.py
-  python nonlinear_population_growth.py
+**Run each script in your terminal:**  
+
+- python stochastic_gene_expression.py
+- python nonlinear_population_growth.py
