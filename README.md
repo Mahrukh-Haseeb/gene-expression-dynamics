@@ -3,8 +3,10 @@
 This repository contains Python scripts for simulating stochastic gene expression and nonlinear population growth. These are key concepts in systems biology.
 
 **Scripts**
-- **stochastic_gene_expression.py:** Simulates random fluctuations in gene expression across cells.
-- **nonlinear_population_growth.py:** Models population growth using the logistic equation, showing nonlinear dynamics.
+- **stochastic_gene_expression.py:**
+  Simulates random fluctuations in gene expression across cells.
+- **nonlinear_population_growth.py:**
+  Models population growth using the logistic equation, showing nonlinear dynamics.
 
 **Requirements**
 - Python 3
