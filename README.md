@@ -1,4 +1,4 @@
-**Gene Expression Dynamics**
+**Gene Expression Dynamics:**
 This repository contains Python scripts for simulating stochastic gene expression and nonlinear population growth. These are key concepts in systems biology.
 
 **Scripts**
